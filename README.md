@@ -1,8 +1,10 @@
 #laravelmpdf
 
-#Installation:
+###Installation:
 
+```
 composer require mediaciety/laravelmpdf
+```
 
 Open *config/app.php* and add 
 ```
