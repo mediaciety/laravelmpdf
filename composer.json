@@ -1,0 +1,15 @@
+{
+  "name": "mediaciety/laravelmpdf",
+  "description": "generate pdfs in laravel the mpdf-way",
+  "keywords": ["mpdf", "pdf", "laravel"],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6.0",
+    "mpdf/mpdf": "^6.1.3"
+  },
+  "autoload": {
+    "psr-0":{
+      "Mediaciety\\LaravelMpdf\\": "src/"
+    }
+  }
+}
